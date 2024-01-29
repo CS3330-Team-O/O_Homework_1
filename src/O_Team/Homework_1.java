@@ -7,6 +7,6 @@ public class Homework_1 {
 		System.out.println("davidAllenStepan");
 		System.out.println("ishavers");
 		//Sydney added this
-		System.out.println("sydpoulsen");
+		System.out.println("Name: Sydney Poulsen, Git ID: sydpoulsen");
 	}
 }
