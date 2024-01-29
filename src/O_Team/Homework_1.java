@@ -6,6 +6,7 @@ public class Homework_1 {
 		System.out.println("ashleyogorman");
 		System.out.println("davidAllenStepan");
 		System.out.println("ishavers");
+		//Sydney added this
 		System.out.println("sydpoulsen");
 	}
 }
